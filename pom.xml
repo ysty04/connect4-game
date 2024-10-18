@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>hu.ysty04</groupId>
-    <artifactId>connect4game</artifactId>
+    <artifactId>connect4-game</artifactId>
     <version>0.1</version>
 
     <properties>
